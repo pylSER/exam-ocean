@@ -10,6 +10,7 @@ Nginx 负载均衡
 后端技术栈：
 
 - Spring Boot
+- Hibernate
 - Mysql
 
 微服务架构
