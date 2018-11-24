@@ -1,0 +1,43 @@
+.classCard{
+  width: 97%;
+  height: 220px;
+}
+
+.classDesc{
+  font-size: 14px;
+  margin-bottom: 15px;
+}
+
+.totalQuestion{
+  font-size: 12px;
+  bottom: 10px;
+  position: absolute;
+}
+
+.totalPeople{
+  bottom: 30px;
+  position: absolute;
+} 
+
+.time{
+  font-size: 14px;
+}
+
+.startTime{
+  margin-top: -10px;
+}
+
+.cardSetting{
+  font-size: 17px;
+  cursor: pointer;
+  width: 20px;
+}
+
+.menuOpt{
+  font-size: 13px;
+  cursor: pointer;
+}
+
+.menuOptReg{
+  margin-top: 10px;
+}

@@ -1,0 +1,27 @@
+@font-face{
+    font-family: Raleway;
+    src: url('/assets/Raleway-Regular.ttf');
+}
+
+
+.title{
+  font-size: 31px;
+  text-align: center;
+  font-family:Raleway, Hiragino Sans GB, sans-serif;
+  color: #108ee9;
+  margin-bottom: 20px;
+}
+
+
+.loginInput{
+  margin-top: 20px;
+}
+
+.loginBTN{
+  width: 100% !important;
+}
+
+
+.radioGroup{
+  margin-bottom: 0;
+}

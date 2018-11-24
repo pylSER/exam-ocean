@@ -1,0 +1,11 @@
+.normal {
+    font-family: Georgia, sans-serif;
+    margin-top: 2em;
+    text-align: left;
+    padding-left: 32px;
+    margin-right: 40px;
+  }
+
+  .add{
+    font-size: 15px;
+  }

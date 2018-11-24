@@ -1,0 +1,32 @@
+.normal {
+    font-family: Georgia, sans-serif;
+    margin-top: 2em;
+    text-align: center;
+    padding-left: 32px;
+    margin-right: 40px;
+  }
+
+  .info{
+      margin-top: 20px;
+      display: inline-block;
+      margin-right: 20px;
+  }
+
+  .header{
+      display: inline-block;
+  }
+
+  .add{
+    font-size: 15px;
+  }
+
+  .tableArea{
+      text-align: left;
+      margin-top: 15px;
+      margin-left: 10%;
+      margin-right: 10%;
+  }
+
+  .scoreTable{
+      margin-top: 15px;
+  }

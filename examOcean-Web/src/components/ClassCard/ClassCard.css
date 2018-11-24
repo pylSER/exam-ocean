@@ -1,0 +1,15 @@
+.classCard{
+    width: 97%;
+    height: 220px;
+  }
+
+  .classDesc{
+    font-size: 14px;
+    margin-bottom: 15px;
+  }
+
+  .total{
+    font-size: 10px;
+    bottom: 10px;
+    position: absolute;
+  }

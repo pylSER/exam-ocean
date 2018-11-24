@@ -1,0 +1,37 @@
+@font-face{
+    font-family: Raleway;
+    src: url('/assets/Raleway-Regular.ttf');
+}
+
+hr{
+  border: none;
+  background-color: #d9d9d9;
+  height: 1px;
+}
+
+
+.role{
+  text-align: center;
+  margin-top: 6%;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+.typeRow{
+  margin-top: 6%;
+  text-align: center;
+}
+
+.typeName{
+  font-size: 30px;
+  margin-top: 10px;
+  color: rgba(0, 0, 0, 0.8);
+  line-height: 1.5;
+}
+
+.typeCard{
+  width: 200px;
+  margin:0 auto;
+  display: inline-block;
+  cursor: pointer;
+}

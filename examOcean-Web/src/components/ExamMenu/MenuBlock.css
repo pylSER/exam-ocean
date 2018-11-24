@@ -1,0 +1,34 @@
+.block{
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    color: #108ee9;
+    background-color: white;
+    font-size: 21px;
+    padding-top: 8px;
+    display: inline-block;
+    cursor: pointer;
+    margin-top: 8px;
+    margin-right: 8px;
+}
+
+.block:hover
+{ 
+    border: solid #eeeeee 1px;
+    box-shadow:0px 0px 1px 1px rgb(248, 246, 246);
+}
+
+.blockSelected{
+    border-bottom: solid #108ee9 2px;
+}
+
+.blockSelected:hover{
+    border-bottom: solid #108ee9 2px;
+}
+
+
+.markStar{
+    font-size: 14px;
+    color: #f46e65;
+    vertical-align: top;
+}

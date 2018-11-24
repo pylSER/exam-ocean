@@ -1,0 +1,14 @@
+.examCard{
+    width: 97%;
+    height: 210px;
+  }
+  
+  .examTitle{
+    font-size: 20px;
+  }
+
+  .score{
+      margin-top: 10px;
+      font-size: 36px;
+      text-align: center;
+  }

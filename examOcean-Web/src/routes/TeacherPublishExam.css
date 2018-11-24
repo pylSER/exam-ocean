@@ -1,0 +1,16 @@
+.normal {
+    font-family:  sans-serif;
+    margin-top: 2em;
+    text-align: left;
+    padding-left: 40px;
+    margin-right: 40px;
+  }
+
+  .steps-action {
+    margin-top: 24px;
+  }
+
+  .nextBTN{
+      text-align: center
+  }
+  

@@ -1,0 +1,64 @@
+.examCard{
+  width: 97%;
+  height: 210px;
+}
+
+.examTitle{
+  font-size: 20px;
+}
+
+.examStartTime{
+  margin-top: 8%;
+}
+
+.examTime{
+  font-size: 14px;
+}
+
+.examEndTime{
+
+}
+
+.examBTN{
+  width: 80%;
+  bottom: 10px;
+  position: absolute;
+  background-color: white;
+  color: #f78e3d;
+  border-color: #f78e3d;
+}
+
+.examBTN:hover{
+  width: 80%;
+  bottom: 10px;
+  position: absolute;
+  background-color: #f78e3d;
+  color: white;
+  border-color: #f78e3d;
+}
+
+.examBTN:focus{
+  width: 80%;
+  bottom: 10px;
+  position: absolute;
+  background-color: #f78e3d;
+  color: white;
+  border-color: #f78e3d;
+}
+
+.pwdError{
+  color: red;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.finished{
+  width: 80%;
+  bottom: 15px;
+  position: absolute;
+  background-color: white;
+  color: #f78e3d;
+  border-color: #f78e3d;
+  font-size: 16px;
+}
+

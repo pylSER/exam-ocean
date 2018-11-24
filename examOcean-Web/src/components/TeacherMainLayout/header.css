@@ -1,0 +1,35 @@
+@font-face{
+    font-family: Raleway;
+    src: url('/assets/Raleway-Regular.ttf');
+}
+
+.headerMenu{
+  display: inline-block;
+  height: 80px;
+  width: 100%;
+}
+
+.headerItem{
+  height: 80px;
+  font-size: 14px;
+  padding-top: 20px;
+}
+
+.headerLogo{
+  font-size: 16px;
+  padding-top: 20px;
+  cursor: default;
+  padding-left: 40px;
+    padding-right: 40px;
+}
+
+.headerText{
+  font-family:Raleway, Hiragino Sans GB, sans-serif;
+}
+
+.headerLogout{
+  height: 80px;
+  font-size: 14px;
+  padding-top: 20px;
+  float: right !important;
+}

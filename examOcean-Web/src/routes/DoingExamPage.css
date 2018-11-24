@@ -1,0 +1,21 @@
+
+.normal {
+    font-family: Georgia, sans-serif;
+    height: 100%;
+  }
+
+  .sider{
+      height: 100%;
+      background-color: white;
+      border-right: solid #dddddd 1px;
+      overflow-y: scroll;
+  }
+
+  .content{
+      background-color: white;
+  }
+
+  .blockArea{
+      display: inline-block;
+      margin-left: 8%;
+  }
